@@ -1,0 +1,49 @@
+INFO  16:38:18.898 [main] com.example.java2homework2.server.Database (Database.java:20) - Подключение к базе данных выполнено
+INFO  16:38:18.921 [main] com.example.java2homework2.server.ChatServer (ChatServer.java:31) - Ожидание подключения...
+INFO  16:38:27.706 [main] com.example.java2homework2.server.ChatServer (ChatServer.java:34) - Клиент подключился
+INFO  16:38:27.706 [main] com.example.java2homework2.server.ChatServer (ChatServer.java:31) - Ожидание подключения...
+INFO  16:38:36.101 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: /auth login1 pass1
+INFO  16:38:36.109 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения 
+INFO  16:38:36.111 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения nick1
+INFO  16:38:40.693 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: gd
+INFO  16:38:40.694 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:140) - Получено сообщение: gd
+INFO  16:38:40.694 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения nick1
+INFO  16:38:41.220 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: ger
+INFO  16:38:41.221 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:140) - Получено сообщение: ger
+INFO  16:38:41.221 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения nick1
+INFO  16:41:14.847 [main] com.example.java2homework2.server.Database (Database.java:20) - Подключение к базе данных выполнено
+INFO  16:41:14.853 [main] com.example.java2homework2.server.ChatServer (ChatServer.java:31) - Ожидание подключения...
+INFO  16:41:19.439 [main] com.example.java2homework2.server.ChatServer (ChatServer.java:34) - Клиент подключился
+INFO  16:41:19.440 [main] com.example.java2homework2.server.ChatServer (ChatServer.java:31) - Ожидание подключения...
+INFO  16:41:24.636 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: /auth user1 111
+INFO  16:41:24.644 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения 
+INFO  16:41:24.646 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
+INFO  16:41:26.604 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: sdfsf
+INFO  16:41:26.605 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:140) - Получено сообщение: sdfsf
+INFO  16:41:26.605 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
+INFO  16:41:27.115 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: fs
+INFO  16:41:27.115 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:140) - Получено сообщение: fs
+INFO  16:41:27.115 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
+INFO  16:41:42.616 [main] com.example.java2homework2.server.ChatServer (ChatServer.java:34) - Клиент подключился
+INFO  16:41:42.617 [main] com.example.java2homework2.server.ChatServer (ChatServer.java:31) - Ожидание подключения...
+INFO  16:41:49.172 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: /auth user2 222
+INFO  16:41:49.175 [pool-3-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения 
+INFO  16:41:49.176 [pool-3-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
+INFO  16:41:49.177 [pool-3-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
+INFO  16:41:49.177 [pool-3-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения volk
+INFO  16:41:51.995 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: sdfsdf
+INFO  16:41:51.995 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:140) - Получено сообщение: sdfsdf
+INFO  16:41:51.996 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
+INFO  16:41:51.996 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения volk
+INFO  16:41:53.603 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: sfds
+INFO  16:41:53.603 [pool-3-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:140) - Получено сообщение: sfds
+INFO  16:41:53.604 [pool-3-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
+INFO  16:41:53.604 [pool-3-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения volk
+INFO  16:41:56.763 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: /w bulka fsd
+INFO  16:41:56.763 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:140) - Получено сообщение: /w bulka fsd
+INFO  16:41:56.769 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
+INFO  16:41:56.769 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
+INFO  16:42:02.211 [JavaFX Application Thread] com.example.java2homework2.ChatClient (ChatClient.java:163) - Send message: /w volk sdfsfd
+INFO  16:42:02.211 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:140) - Получено сообщение: /w volk sdfsfd
+INFO  16:42:02.211 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения volk
+INFO  16:42:02.211 [pool-2-thread-1] com.example.java2homework2.server.ClientHandler (ClientHandler.java:129) - СЕРВЕР: Отправка сообщения bulka
